@@ -1,7 +1,8 @@
+/* styles/style.css */
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #blue;
+    background-color: #f0f8ff;
     margin: 0;
     padding: 20px;
     color: #333;
@@ -36,30 +37,4 @@ nav ul li a:hover {
 
 main {
     margin-top: 20px;
-}
 
-h1 {
-    font-family: 'Georgia', serif;
-}
-
-h2 {
-    color: #2E8B57;
-    font-family: 'Tahoma', sans-serif;
-}
-
-p {
-    font-size: 16px;
-    line-height: 1.6;
-}
-
-img {
-    max-width: 100%; /* Чтобы изображение не выходило за пределы контейнера */
-    height: auto;
-}
-
-footer {
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #ccc;
-    text-align: center;
-}
